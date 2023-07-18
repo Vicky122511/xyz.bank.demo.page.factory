@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.729">
+  <properties />
+  
+  
+            <testcase name="customerShouldDepositMoneySuccessfully" time="2.177" classname="xyz.bank.demo.tastsuite.BankTest" />
+                <testcase name="customerShouldWithdrawMoneySuccessfully" time="2.223" classname="xyz.bank.demo.tastsuite.BankTest" />
+                <testcase name="customerShouldLoginAndLogoutSuccessfully" time="2.089" classname="xyz.bank.demo.tastsuite.BankTest" />
+                <testcase name="bankManagerShouldOpenAccountSuccessfully" time="2.338" classname="xyz.bank.demo.tastsuite.BankTest" />
+                <testcase name="bankManagerShouldAddCustomerSuccessfully" time="1.902" classname="xyz.bank.demo.tastsuite.BankTest" />
+      
+</testsuite>
